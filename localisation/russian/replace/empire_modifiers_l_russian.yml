@@ -1,0 +1,12 @@
+﻿l_russian:
+ modifier_production_speed_rail_way_factor:0 "Скорость строительства §YДороги§!" 
+ modifier_production_speed_supply_node_factor:0 "Скорость строительства §YТочки Снабжения§!" 
+ MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR:0 "Максимальное количество мануфактур в Регионе" 
+ MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR_DESC:1 "Изменяет количество общих строительных слотов во всех Регионах." 
+ MODIFIER_GLOBAL_BUILDING_SLOTS:0 "Максимальное количество мануфактур в Регионе" 
+ MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR:0 "Максимальное количество мануфактур в Регионе" 
+ MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR_DESC:1 "Изменяет количество общих строительных слотов в Регионе." 
+ MODIFIER_LOCAL_BUILDING_SLOTS:0 "Максимальное количество мануфактур в Регионе" 
+ chief_economic_advisor_cost_factor:0 "Стоимость Главного Экономического Советника" 
+ chief_diplomatic_advisor_cost_factor:0 "Стоимость Главного Дипломатического Советника" 
+ spymaster_cost_factor:0 "Стоимость Призрачного Джентельмена" 
