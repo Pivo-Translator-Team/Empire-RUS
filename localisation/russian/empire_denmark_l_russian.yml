@@ -1,25 +1,25 @@
 ﻿l_russian:
 
- DEN_GATHERING_STORM_DESC:0 "Denmark-Norway is a shell of its former self. Following disastrous campaigns against Sweden in de 17th century, they lost large parts of their country, especially the important county of Skåne. With a sputtering economy, and a small army, the large coalition forming against Sweden might be their last shot at reclaiming their old territories. Otherwise they might have to let them go, forever." 
- SHL_GATHERING_STORM_DESC:0 "Holstein-Gottorp is a small imperial prince, which has long been under the influence of the Scandinavian states. Now under the influence of Sweden, they are threatened to be pulled into a conflict in which they have little interest." 
+ DEN_GATHERING_STORM_DESC:0 "Датско-Норвежская уния - это оболочка своего прежнего "я". После неудачных кампаний против Швеции в XVII веке они потеряли большую часть своей страны, особенно важное графство Сконе. С задыхающейся экономикой и небольшой армией, большая коалиция, формирующаяся против Швеции, может стать их последним шансом вернуть свои старые территории. В противном случае им придется отпустить их навсегда."
+ SHL_GATHERING_STORM_DESC:0 "Гольштейн-Готторп - небольшой имперский князь, который долгое время находился под влиянием Скандинавских государств. Теперь, находясь под влиянием Швеции, они находятся под угрозой быть втянутыми в конфликт, в котором они мало заинтересованы." 
 
  # Leaders: 
 
- FREDERICK_IV_DESC:0 "Frederick IV succeeded his father Christian V in 1699. As crown prince, Frederick broadened his education by travelling in Europe, led by his chamberlain Ditlev Wibe. He was particularly impressed by the architecture in Italy and, on his return to Denmark, asked his father, Christian V, for permission to build a summer palace on Solbjerg. As a young and new king, his path is not yet set in stone, and only time will tell what impact he will have on the future of Denmark-Norway." 
- SOPHIA_HEDWIG_DESC:0 "Queen Sophia Hedwig of Denmark and Norway, previously known as princess Sophia Hedwig, succeeded her brother after he died without issue.\n\nSophia Hedwig became the object of marriage prospects early on and was betrothed three times. As a child, she became engaged to her cousin, John George IV, Elector of Saxony. This was in line with the traditional policy of dynastic marriage between Denmark and Saxony which had at that point become a tradition. In 1689, it was decided that the marriage was to take place two years later. When John George succeeded his father in 1691, he broke the engagement. In 1692, a marriage to the future Joseph I, Holy Roman Emperor, was suggested, and from 1694 to 1697. However, Sophia Hedwig refused to convert to Catholicism despite considerable pressure to do so by her father.\n\n A recent policy since 1697 to attempt to mend ties between Sweden and Denmark-Norway, led to her marriage to Charles XII of Sweden, effectively making her queen-consort of Sweden. Although her marriage with king Charles XII is a happy one, one cannot help but be suspicious about the circumstances in which her elder brother died." 
- CHRISTIAN_V_DESC:0 "Christian V of house Oldenburg is king of Denmark and Norway since 1670. Well-regarded by the common people, he was the first king anointed at Frederiksborg Castle chapel as absolute monarch since the decree that institutionalized the supremacy of the king in Denmark-Norway. Christian fortified the absolutist system against the aristocracy by accelerating his father's practice of allowing both Holstein nobles and Danish and Norwegian commoners into state service.\n\nAs king, Christian has always wanted to show his power as absolute monarch through architecture and has long dreamed of Danish Versailles. He was the first to use the 1671 Throne Chair of Denmark, partly made for this purpose. His motto is: Pietate et Justitia (With piety and justice)." 
+ FREDERICK_IV_DESC:0 "Фредерик IV сменил своего отца Кристиана V в 1699 году. Будучи кронпринцем, Фредерик расширил свое образование, путешествуя по Европе под руководством своего камергера Дитлева Вибе. Его особенно впечатлила архитектура Италии, и по возвращении в Данию он попросил у своего отца, Кристиана V, разрешения построить летний дворец в Сольбьерге. Как молодой и новый король, его путь еще не определен, и только время покажет, какое влияние он окажет на будущее Датско-Норвежской унии."
+ SOPHIA_HEDWIG_DESC:0 "Королева Датско-Норвежской унии София Гедвиг, ранее известная как принцесса София Гедвиг, стала преемницей своего брата после его смерти без потомства.\n\nСофия Гедвиг рано стала объектом брачных перспектив и была обручена трижды. В детстве она обручилась со своим кузеном, Иоанном Георгом IV, Курфюрстом Саксонским. Это соответствовало ставшей к тому времени традиционной политике династических браков между Данией и Саксонией. В 1689 году было решено, что брак должен состояться двумя годами позже. Когда в 1691 году Джон Георг стал преемником своего отца, он разорвал помолвку. В 1692 году был предложен брак с будущим Иосифом I, императором Священной Римской империи, а с 1694 по 1697 гг. Однако София Гедвиг отказалась перейти в католичество, несмотря на значительное давление со стороны отца.\n\n В результате проводимой с 1697 года политики, направленной на попытку наладить отношения между Швецией и Датско-Норвежской унией она вышла замуж за Карла XII Шведского, что фактически сделало ее королевой-консортом Швеции. Хотя ее брак с королем Карлом XII является счастливым, нельзя не отнестись с подозрением к обстоятельствам, при которых умер ее старший брат." 
+ CHRISTIAN_V_DESC:0 "Кристиан V из дома Ольденбург - король Датско-Норвежской унии с 1670 года. Пользующийся большим уважением среди простого народа, он был первым королем, помазанным в часовне замка Фредериксборг в качестве абсолютного монарха после принятия указа, закрепившего верховенство короля в Датско-Норвежской унии. Кристиан укрепил абсолютистскую систему против аристократии, ускорив практику своего отца по допуску на государственную службу как голштейнских дворян, так и датских и норвежских простолюдинов.\n\n\nКак король, Кристиан всегда хотел показать свою власть абсолютного монарха через архитектуру и давно мечтал о датском Версале. Он был первым, кто использовал тронное кресло Дании 1671 года, частично сделанное для этой цели. Его девиз: Pietate et Justitia (С благочестием и справедливостью)."
 
  # Flags: 
 
- colonial_tech:0 "Colonial Expansion Research" 
- flag_peace_of_travendal:0 "Signed treaty of Travendal" 
- DEN_army_reform_tt:0 "This will unlock decisions to reform our army." 
- swe_must_accept_all:0 "§YSweden must accept all political reforms for us to unite the realms.§!" 
- rus_must_approve:0 "§YRussia must approve of this pact in order for these agreements to come into effect.§!" 
- you_get_second_chance:0 "§RShould our initial advances fail, the§! §YThe Weakness of Sweden§! §Rbranch will become available.§!" 
- SWE_agrees_to_closer_union:0 "Sweden has agreed to an integrated union." 
- kalmar_research:0 "Kalmar Research Group" 
- kalmar_research_desc:0 "A joint research effort of Scandinavia to promote innovation in the North." 
+ colonial_tech:0 "Исследование Колониальной Экспансии" 
+ flag_peace_of_travendal:0 "Подписан Мир в Травендале" 
+ DEN_army_reform_tt:0 "Это разблокирует решения по реформированию нашей армии."
+ swe_must_accept_all:0 "§YШвеция должна принять все политические реформы, чтобы мы могли объединить королевства.§!" 
+ rus_must_approve:0 "§YРоссия должна одобрить этот пакт, чтобы соглашения вступили в силу.§!" 
+ you_get_second_chance:0 "§RЕсли наши первоначальные усилия не увенчаются успехом, то§! §Rветка§!" §YСлабость Швеции§!  §Rстанет доступной.§!"
+ SWE_agrees_to_closer_union:0 "Швеция согласилась на интегрированный союз." 
+ kalmar_research:0 "Кальмарская Исследовательская Группа" 
+ kalmar_research_desc:0 "Совместные исследовательские усилия Скандинавии для продвижения инноваций на Севере." 
 
  # Focus: 
 
@@ -289,9 +289,9 @@ denmark.33.d:0 "Sweden has accepted our gracious peace offer, choosing to fight 
 
  # Cosmetic tags: 
 
- DEN_north_sea_empire:0 "North Sea Empire" 
- DEN_north_sea_empire_DEF:0 "The North Sea Empire" 
- DEN_north_sea_empire_ADJ:0 "Danish" 
+ DEN_north_sea_empire:0 "Империя Северного Моря" 
+ DEN_north_sea_empire_DEF:0 "Империя Северного Моря" 
+ DEN_north_sea_empire_ADJ:0 "Датск." 
 
  # Tooltips: 
 
