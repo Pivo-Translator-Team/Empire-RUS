@@ -5,4 +5,4 @@ tags={
 name="Официальный Русификатор Empire"
 picture="thumbnail.png"
 supported_version="1.12.*"
-remote_file_id="2876997486"
+remote_file_id="2978810443"

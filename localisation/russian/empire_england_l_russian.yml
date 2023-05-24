@@ -1,21 +1,21 @@
 ﻿l_russian:
 
  # Leaders: 
- old_pretender:0 "The Old Pretender" 
- divine_right:0 "Divine Ruler" 
- long_parliament:0 "Long Parliament" 
- rump_parliament:0 "Rump Parliament" 
- enlightened_thinker:0 "Enlightened Thinker" 
- william_III_DESC:0 "William III of England has ruled England, Scotland, and Ireland since 1689. Originally born in the Dutch Republic he inherited the Principality of Orange in Holland upon his birth, Giving him his widely used name William of Orange. In 1672 William became Stadtholder of Holland, Zeeland, Utrecht, Guelders, and Overijssel. On the request of these states, he took charge of the United Provinces. William is a staunch Protestant, and many people see him as the defender of their faith. In 1677 William married Mary, oldest daughter of future King James II of England. He hoped this would improve his standing with England. William was constantly embroiled in conflict with the French king Louis XIV, who described him as ‘my mortal enemy’. This forced William to join several anti-French collations. Various anti-protestant reforms enacted by James II were making the predominantly Protestant English population extremely unhappy. Things finally came to a head when a group of powerful English Lords known ever after word as the ‘Immortal Seven’ sent William an invitation to invade England. On November 5, 1688, William landed in England starting the Glorious Revolution, Protestants flocked to his banner deserting James II, who fled to France. William fought various wars with Catholic pro James II supporters and Jacobite's while co ruling with his wife Mary. Most notably in Scotland and Ireland. When Mary died in 1694 of smallpox, William began to rule alone over England, though in recent years William’s popularity has fallen severely due to the lack of a Royal heir and a wife." 
+ old_pretender:0 "Старый Притворщик" 
+ divine_right:0 "Божественный Правитель" 
+ long_parliament:0 "Длинный Парламент" 
+ rump_parliament:0 "Козырный Парламент" 
+ enlightened_thinker:0 "Просвещенный Мыслитель" 
+ william_III_DESC:0 "Вильгельм III Английский правил Англией, Шотландией и Ирландией с 1689 года. Родившись в Голландской республике, он унаследовал Оранское княжество в Голландии, что дало ему широко используемое имя Вильгельм Оранский. В 1672 году Вильгельм стал штадтхолдером Голландии, Зеландии, Утрехта, Гельдерса и Оверэйссела. По просьбе этих государств он взял на себя управление Объединенными провинциями. Вильгельм - убежденный протестант, и многие люди видят в нем защитника своей веры. В 1677 году Вильгельм женился на Марии, старшей дочери будущего короля Англии Якова II. Он надеялся, что это улучшит его положение в отношениях с Англией. Вильгельм постоянно вступал в конфликты с французским королем Людовиком XIV, который называл его "моим смертельным врагом". Это вынудило Вильгельма присоединиться к нескольким антифранцузским коллаборациям. Различные антипротестантские реформы, принятые Яковом II, делали преимущественно протестантское население Англии крайне недовольным. Все окончательно встало на свои места, когда группа могущественных английских лордов, известная впоследствии как ’Бессмертная семерка’, направила Вильгельму приглашение вторгнуться в Англию. 5 ноября 1688 года Вильгельм высадился в Англии, начав Славную революцию. Протестанты стекались под его знамена, покидая Якова II, который бежал во Францию. Вильгельм вел различные войны с католиками, поддерживающими Якова II, и якобитами, правя вместе со своей женой Марией. В первую очередь в Шотландии и Ирландии. Когда Мария умерла в 1694 году от оспы, Вильгельм стал единолично править Англией, хотя в последние годы популярность Вильгельма сильно упала из-за отсутствия королевского наследника и жены." 
 
  # Flags: 
- strict_anti_french_stance:0 "Strict Anti-French Stance" 
- ENG_king_will_dissolve_parliament:0 "The king will seek to dissolve parliament, leading up to civil war." 
- ENG_chose_the_people:0 "Upon the start of the civil war, gain 3 well-trained units with §Y7 infantry§! and §Y2 artillery§! battalions and §YRecon§! and §YEngineer§! Support. The royalists will receive 10 untrained units with §Y3 infantry§! battalions.\n" 
- ENG_chose_the_army:0 "Upon the start of the civil war, gain 10 untrained units with §Y3 infantry§! battalions. The royalists will receive 3 well-trained units with §Y7 infantry§! and §Y2 artillery§! battalions and §YRecon§! and §YEngineer§! Support.\n" 
- ENG_london_secured:0 "Upon the start of the civil war, you will start with guaranteed control over §Y[126.GetName]§!.\n" 
- ENG_irish_rebellion_vassal:0 "Upon the start of the civil war, the Irish rebellion will be your puppet." 
- ENG_scotland_sides_with_parliament:0 "Upon the start of the civil war, Scotland will side with the parliamentarians instead of the Royalists." 
+ strict_anti_french_stance:0 "Строгая антифранцузская позиция" 
+ ENG_king_will_dissolve_parliament:0 "Король будет добиваться роспуска парламента, что приведет к гражданской войне."
+ ENG_chose_the_people:0 "После начала гражданской войны получите 3 хорошо обученных подразделения с §Y7 пехотными§! и §Y2 артиллерийским§! батальонами и §YРазведкрй§! и §YСапйрной§! Поддержка. Роялисты получат 10 необученных частей с §Y3 пехотными§! батальонами.\n" 
+ ENG_chose_the_army:0 "После начала гражданской войны получите 10 необученных подразделений с §Y3 пехотными§! батальонами. Роялисты получат 3 хорошо обученных подразделения с §Y7 пехотными§! и §Y2 артиллерийскими§! батальонами и §YРазведкой§! и §YСапёрной§! поддержкой.\n" 
+ ENG_london_secured:0 "После начала гражданской войны, вы начнете с гарантированным контролем над регионом §Y[126.GetName]§!.\n" 
+ ENG_irish_rebellion_vassal:0 "После начала гражданской войны Ирландское восстание станет вашей марионеткой."
+ ENG_scotland_sides_with_parliament:0 "После начала гражданской войны Шотландия будет на стороне парламентариев, а не роялистов."
 
  # Focus: 
  eng_rearrange_parliament:0 "Rearrange Parliament" 
