@@ -1,53 +1,53 @@
 ﻿l_russian:
-Get.life_experience:0 "[?life_experience|0]" 
-life_experience_tooltip:0"§YЖизненный Опыт§!\n\nТекущая сумма: §Y[?life_experience|0.2]§!\n\nЕженедельный прирост: §Y0.88§!\n\nНакопление опыта заканчивается на сумме равной §Y500§!\n--------------\n§YЖизненный Опыт§! используется для улучшения умений правителя. Его можно получит §YЗахватывая страны§!, §Yпо Решениям§!, §YОбъявляя войны§!, §Yпо Национальным Фокусам§!, §Yпри Создании/Вступлении/Выходе из Альянс§! и §Yпри Отправке/Получении добровольцев§!."
-ruler_skills_dynamic_modifier:0 "Умения Правителя" 
-diplomacy_skill_level_text_for_popup:0 "[?diplomacy_skill_display_on_stats]" 
-militate_skill_level_text_for_popup:0 "[?militate_skill_display_on_stats]" 
-management_skill_level_text_for_popup:0 "[?management_skill_display_on_stats]" 
-# 
-#\n - Political Power Gain: §G+diplomacy_skill_level_text_for_popup%§!\n - #Trade deal opinion factor: §Y+diplomacy_skill_level_text_for_popup%§! 
-#\n - Division Recovery Rate: §G+militate_skill_level_text_for_popup%§!\n - #Division training time: §Y-militate_skill_level_text_for_popup%§!\n - Org Loss #when Moving: §G-militate_skill_level_text_for_popup%§! 
-#\n - Construction Speed: §G+management_skill_level_text_for_popup%§!\n - #Factory Output: §G+management_skill_level_text_for_popup%§!\n - Stability: §G#+management_skill_level_text_for_popup%§!\n\n 
-# 
-add_1DS:0 "Add £GFX_air_experience  Дипломатическое Умение: §G+1§!." 
-add_2DS:0 "Add £GFX_air_experience  Дипломатическое Умение: §G+2§!." 
-add_3DS:0 "Add £GFX_air_experience  Дипломатическое Умение: §G+3§!." 
-add_4DS:0 "Add £GFX_air_experience  Дипломатическое Умение: §G+4§!." 
-add_5DS:0 "Add £GFX_air_experience  Дипломатическое Умение: §G+5§!." 
-# 
-add_1WS:0 "Add £GFX_in_combat  Военное Умение: §G+1§!." 
-add_2WS:0 "Add £GFX_in_combat  Военное Умение: §G+2§!." 
-add_3WS:0 "Add £GFX_in_combat  Военное Умение: §G+3§!." 
-add_4WS:0 "Add £GFX_in_combat  Военное Умение: §G+4§!." 
-add_5WS:0 "Add £GFX_in_combat  Военное Умение: §G+5§!." 
-# 
-add_1MS:0 "Add £GFX_pol_idea  Управленческое Умение: §G+1§!." 
-add_2MS:0 "Add £GFX_pol_idea  Управленческое Умение: §G+2§!." 
-add_3MS:0 "Add £GFX_pol_idea  Управленческое Умение: §G+3§!." 
-add_4MS:0 "Add £GFX_pol_idea  Управленческое Умение: §G+4§!." 
-add_5MS:0 "Add £GFX_pol_idea  Управленческое Умение: §G+5§!." 
-# 
-decrease_1DS:0 "Decrease £GFX_air_experience  Дипломатическое Умение: §R-1§!." 
-decrease_2DS:0 "Decrease £GFX_air_experience  Дипломатическое Умение: §R-2§!." 
-decrease_3DS:0 "Decrease £GFX_air_experience  Дипломатическое Умение: §R-3§!." 
-decrease_4DS:0 "Decrease £GFX_air_experience  Дипломатическое Умение: §R-4§!." 
-decrease_5DS:0 "Decrease £GFX_air_experience  Дипломатическое Умение: §R-5§!." 
-# 
-decrease_1WS:0 "Decrease £GFX_in_combat  Военное Умение: §R-1§!." 
-decrease_2WS:0 "Decrease £GFX_in_combat  Военное Умение: §R-2§!." 
-decrease_3WS:0 "Decrease £GFX_in_combat  Военное Умение: §R-3§!." 
-decrease_4WS:0 "Decrease £GFX_in_combat  Военное Умение: §R-4§!." 
-decrease_5WS:0 "Decrease £GFX_in_combat  Военное Умение: §R-5§!." 
-# 
-decrease_1MS:0 "Decrease £GFX_pol_idea  Управленческое Умение: §R-1§!." 
-decrease_2MS:0 "Decrease £GFX_pol_idea  Управленческое Умение: §R-2§!." 
-decrease_3MS:0 "Decrease £GFX_pol_idea  Управленческое Умение: §R-3§!." 
-decrease_4MS:0 "Decrease £GFX_pol_idea  Управленческое Умение: §R-4§!." 
-decrease_5MS:0 "Decrease £GFX_pol_idea  Управленческое Умение: §R-5§!." 
-# 
-diplomacy_skill_level_text:0 "§4[?diplomacy_skill_display_on_stats]§!" 
-militate_skill_level_text:0 "§R[?militate_skill_display_on_stats]§!" 
-management_skill_level_text:0 "§Y[?management_skill_display_on_stats]§!" 
-# 
-ruler_stats_popup:0"§YУмения Правителя§!\n - Прирост политической власти: §G+[?diplomacy_skill_display_on_stats]%§!\n - Влияние мнения на торговые сделки: §Y+[?diplomacy_skill_display_on_stats]%§!\n - Скорость восстановления дивизии: §G+[?militate_skill_display_on_stats]%§!\n - Время подготовки дивизии: §Y-[?militate_skill_display_on_stats]%§!\n - Скорость строительства: §G+[?management_skill_display_on_stats]%§!\n - Объем заводского производства: §G+[?management_skill_display_on_stats]%§!\n\n§YЗа каждое £GFX_air_experience Умения Дипломатии§!\n - Прирост политической власти: §G+1%§!\n - Влияние мнения на торговые сделки: §Y+1%§!\n\n§YЗа каждое  £GFX_in_combat Военного Умения§!\n - Скорость восстановления дивизии: §G+1%§!\n - Время подготовки дивизии: §Y-1%§!\n\n§YЗа каждое £GFX_pol_idea Управленческого Умения§!\n - Скорость строительства: §G+1%§!\n - Объем заводского производства: §G+1%§!\n\n\n£GFX_organization_texticon Умение можно получить из дерева фокусов и решений или получив 100 £GFX_life_experience." 
+ Get.life_experience: "[?life_experience|0]"
+ life_experience_tooltip: "§YЖизненный Опыт§!\n\nТекущая сумма: §Y[?life_experience|0.2]§!\n\nЕженедельный прирост: §Y0.88§!\n\nНакопление опыта заканчивается на сумме равной §Y500§!\n--------------\n§YЖизненный Опыт§! используется для улучшения умений правителя. Его можно получит §YЗахватывая страны§!, §Yпо Решениям§!, §YОбъявляя войны§!, §Yпо Национальным Фокусам§!, §Yпри Создании/Вступлении/Выходе из Альянс§! и §Yпри Отправке/Получении добровольцев§!."
+ ruler_skills_dynamic_modifier: "Умения Правителя"
+ diplomacy_skill_level_text_for_popup: "[?diplomacy_skill_display_on_stats]"
+ militate_skill_level_text_for_popup: "[?militate_skill_display_on_stats]"
+ management_skill_level_text_for_popup: "[?management_skill_display_on_stats]"
+ # 
+ #\n - Political Power Gain: §G+diplomacy_skill_level_text_for_popup%§!\n - #Trade deal opinion factor: §Y+diplomacy_skill_level_text_for_popup%§! 
+ #\n - Division Recovery Rate: §G+militate_skill_level_text_for_popup%§!\n - #Division training time: §Y-militate_skill_level_text_for_popup%§!\n - Org Loss #when Moving: §G-militate_skill_level_text_for_popup%§! 
+ #\n - Construction Speed: §G+management_skill_level_text_for_popup%§!\n - #Factory Output: §G+management_skill_level_text_for_popup%§!\n - Stability: §G#+management_skill_level_text_for_popup%§!\n\n 
+ # 
+ add_1DS: "Add £GFX_air_experience  Дипломатическое Умение: §G+1§!."
+ add_2DS: "Add £GFX_air_experience  Дипломатическое Умение: §G+2§!."
+ add_3DS: "Add £GFX_air_experience  Дипломатическое Умение: §G+3§!."
+ add_4DS: "Add £GFX_air_experience  Дипломатическое Умение: §G+4§!."
+ add_5DS: "Add £GFX_air_experience  Дипломатическое Умение: §G+5§!."
+ # 
+ add_1WS: "Add £GFX_in_combat  Военное Умение: §G+1§!."
+ add_2WS: "Add £GFX_in_combat  Военное Умение: §G+2§!."
+ add_3WS: "Add £GFX_in_combat  Военное Умение: §G+3§!."
+ add_4WS: "Add £GFX_in_combat  Военное Умение: §G+4§!."
+ add_5WS: "Add £GFX_in_combat  Военное Умение: §G+5§!."
+ # 
+ add_1MS: "Add £GFX_pol_idea  Управленческое Умение: §G+1§!."
+ add_2MS: "Add £GFX_pol_idea  Управленческое Умение: §G+2§!."
+ add_3MS: "Add £GFX_pol_idea  Управленческое Умение: §G+3§!."
+ add_4MS: "Add £GFX_pol_idea  Управленческое Умение: §G+4§!."
+ add_5MS: "Add £GFX_pol_idea  Управленческое Умение: §G+5§!."
+ # 
+ decrease_1DS: "Decrease £GFX_air_experience  Дипломатическое Умение: §R-1§!."
+ decrease_2DS: "Decrease £GFX_air_experience  Дипломатическое Умение: §R-2§!."
+ decrease_3DS: "Decrease £GFX_air_experience  Дипломатическое Умение: §R-3§!."
+ decrease_4DS: "Decrease £GFX_air_experience  Дипломатическое Умение: §R-4§!."
+ decrease_5DS: "Decrease £GFX_air_experience  Дипломатическое Умение: §R-5§!."
+ # 
+ decrease_1WS: "Decrease £GFX_in_combat  Военное Умение: §R-1§!."
+ decrease_2WS: "Decrease £GFX_in_combat  Военное Умение: §R-2§!."
+ decrease_3WS: "Decrease £GFX_in_combat  Военное Умение: §R-3§!."
+ decrease_4WS: "Decrease £GFX_in_combat  Военное Умение: §R-4§!."
+ decrease_5WS: "Decrease £GFX_in_combat  Военное Умение: §R-5§!."
+ # 
+ decrease_1MS: "Decrease £GFX_pol_idea  Управленческое Умение: §R-1§!."
+ decrease_2MS: "Decrease £GFX_pol_idea  Управленческое Умение: §R-2§!."
+ decrease_3MS: "Decrease £GFX_pol_idea  Управленческое Умение: §R-3§!."
+ decrease_4MS: "Decrease £GFX_pol_idea  Управленческое Умение: §R-4§!."
+ decrease_5MS: "Decrease £GFX_pol_idea  Управленческое Умение: §R-5§!."
+ # 
+ diplomacy_skill_level_text: "§4[?diplomacy_skill_display_on_stats]§!"
+ militate_skill_level_text: "§R[?militate_skill_display_on_stats]§!"
+ management_skill_level_text: "§Y[?management_skill_display_on_stats]§!"
+ # 
+ ruler_stats_popup: "§YУмения Правителя§!\n - Прирост политической власти: §G+[?diplomacy_skill_display_on_stats]%§!\n - Влияние мнения на торговые сделки: §Y+[?diplomacy_skill_display_on_stats]%§!\n - Скорость восстановления дивизии: §G+[?militate_skill_display_on_stats]%§!\n - Время подготовки дивизии: §Y-[?militate_skill_display_on_stats]%§!\n - Скорость строительства: §G+[?management_skill_display_on_stats]%§!\n - Объем заводского производства: §G+[?management_skill_display_on_stats]%§!\n\n§YЗа каждое £GFX_air_experience Умения Дипломатии§!\n - Прирост политической власти: §G+1%§!\n - Влияние мнения на торговые сделки: §Y+1%§!\n\n§YЗа каждое  £GFX_in_combat Военного Умения§!\n - Скорость восстановления дивизии: §G+1%§!\n - Время подготовки дивизии: §Y-1%§!\n\n§YЗа каждое £GFX_pol_idea Управленческого Умения§!\n - Скорость строительства: §G+1%§!\n - Объем заводского производства: §G+1%§!\n\n\n£GFX_organization_texticon Умение можно получить из дерева фокусов и решений или получив 100 £GFX_life_experience."

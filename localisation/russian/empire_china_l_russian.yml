@@ -1,35 +1,35 @@
 ﻿l_russian:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- # Ideas: 
- pays_tribute_1:0 "Платит дань" 
- #pays_tribute_1_desc:0 "Эта страна платит небольшую дань Великой Цин и является номинальным членом системы притоков Китая". 
- pays_tribute_2:0 "Платит дань" 
- #pays_tribute_2_desc:0 "Эта страна платит дань Великой Цин и является членом системы притоков Китая". 
- tributary_system:0 "Система Притока" 
- mandate_of_heaven:0 "Небесный Мандат" 
- eight_banners_system:0 "Восьмизнамённая Система" 
-
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  # Ideas: 
+ pays_tribute_1: "Платит дань"
+  #pays_tribute_1_desc:0 "This country is paying a small tribute to the Great Qing, and is a nominal member of the tributary system of China. 
+ pays_tribute_2: "Платит дань"
+ #pays_tribute_2_desc: "Эта страна платит дань Великой Цин и является членом системы притоков Китая"
+ tributary_system: "Система Притока"
+ mandate_of_heaven: "Небесный Мандат"
+ eight_banners_system: "Восьмизнамённая Система"
+  
